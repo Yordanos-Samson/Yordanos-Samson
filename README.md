@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yordanos-Samson</h1>
-<h3 align="center">A passionate programmer from Ethiopia</h3>
+<h3 align="center">A passionate Flutter developer from Ethiopia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yordanos-samson&label=Profile%20views&color=0e75b6&style=flat" alt="yordanos-samson" /> </p>
 
-- 🌱 I’m currently learning **python and JS also flutter**
+- 🌱 I’m currently learning **python and JS also my main scope is flutter**
 
 - 📫 How to reach me **developerjb72@gmail.com**
 
