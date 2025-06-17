@@ -2,7 +2,7 @@
 <h3 align="center">Dedicated Flutter Developer | Cross-Platform Solution Architect</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yordanos-Samson/Yordanos-Samson/main/profile.jpg" alt="Yordanos Samson" width="150" height="150" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/Yordanos-Samson/main/profile.jpg" alt="Yordanos Samson" width="150" height="150" style="border-radius:50%" />
 </p>
 
 <p align="center">
