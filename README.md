@@ -2,9 +2,12 @@
 <h3 align="center">Dedicated Flutter Developer | Cross-Platform Solution Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yordanos-samson&label=Profile%20views&color=0e75b6&style=flat" alt="yordanos-samson" />
+  <img src="https://raw.githubusercontent.com/Yordanos-Samson/Yordanos-Samson/main/profile.jpg" alt="Yordanos Samson" width="150" height="150" style="border-radius:50%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yordanos-samson&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ---
 
 ## About Me
