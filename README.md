@@ -99,9 +99,6 @@ I’m a passionate Flutter developer from Ethiopia with a strong foundation in c
   <img src="https://github-readme-stats.vercel.app/api?username=yordanos-samson&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yordanos-samson" alt="GitHub Streak" />
-</p>
 
 ---
 
