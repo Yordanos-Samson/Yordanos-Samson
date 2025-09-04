@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a passionate Flutter developer from Ethiopia with a strong foundation in crafting efficient, high-quality mobile applications. During my internship at the Information Network Security Agency (INSA), I developed a **Credential Verification App**, integrating Flutter with PostgreSQL and Dart Frog for secure data handling. My portfolio also includes personal projects like a **mood-based music recommender** using Google’s Gemini API and a **full-stack healthcare platform** as my final year project. I’m skilled in multiple programming languages, including C++, Python, and JavaScript, and I’m committed to learning and applying new technologies to solve real-world problems.
+I’m a passionate Flutter developer with a strong foundation in crafting efficient, high-quality mobile applications. During my internship at the Information Network Security Agency (INSA), I developed a **Credential Verification App**, integrating Flutter with PostgreSQL and Dart Frog for secure data handling. My portfolio also includes personal projects like a **mood-based music recommender** using Google’s Gemini API and a **full-stack healthcare platform** as my final year project. I’m skilled in multiple programming languages, including C++, Python, and JavaScript, and I’m committed to learning and applying new technologies to solve real-world problems.
 
 - 🔭 I specialize in building robust cross-platform solutions with **Flutter**  
 - 🌱 I’m enhancing my skills in **Python** and **JavaScript**, with Flutter as my core strength  
