@@ -1,113 +1,113 @@
-<h1 align="center">Hi 👋, I'm Yordanos Samson</h1>
-<h3 align="center">Dedicated Flutter Developer | Cross-Platform Solution Architect</h3>
-
-
----
-
-## About Me
-
-I’m a passionate Flutter developer with a strong foundation in crafting efficient, high-quality mobile applications. During my internship at the Information Network Security Agency (INSA), I developed a **Credential Verification App**, integrating Flutter with PostgreSQL and Dart Frog for secure data handling. My portfolio also includes personal projects like a **mood-based music recommender** using Google’s Gemini API and a **full-stack healthcare platform** as my final year project. I’m skilled in multiple programming languages, including C++, Python, and JavaScript, and I’m committed to learning and applying new technologies to solve real-world problems.
-
-- 🔭 I specialize in building robust cross-platform solutions with **Flutter**  
-- 🌱 I’m enhancing my skills in **Python** and **JavaScript**, with Flutter as my core strength  
-- 💡 I’m driven to create scalable, impactful applications with seamless user experiences  
-- 📫 Reach me at: **developerjb72@gmail.com**  
-
----
-
-## Featured Projects
-
-### CareSync Healthcare Platform (Private Repository)
-- **Overview**: A full-stack healthcare system featuring a React-based web dashboard and a Flutter mobile app, powered by Supabase for backend services.  
-- **Tech Stack**: Flutter, React, Supabase (PostgreSQL, Auth, Realtime), JavaScript  
-- **Key Features**: Real-time appointment scheduling, video consultations, and role-based access for doctors, admins, and patients.  
-- *Note*: Repository is private due to group collaboration.  
-
-### [Credential Verification App](https://github.com/yordanos-samson/credential-verification-app)
-- **Overview**: A Flutter-based app developed during my INSA internship, designed to scan QR codes and verify credentials securely.  
-- **Tech Stack**: Flutter, PostgreSQL, Dart Frog  
-- **Key Features**: QR code scanning, secure credential storage, and JSON parsing for data retrieval.  
-- *Link*: Replace with actual repository URL if public.
-
-### [Mood-based Music Recommender](https://github.com/yordanos-samson/mood-music-recommender)
-- **Overview**: An Android app that suggests music based on the user’s mood, utilizing Google’s Gemini API.  
-- **Tech Stack**: Flutter, Google’s Gemini API  
-- **Key Features**: Mood detection, personalized recommendations, and smooth API integration.  
-- *Link*: Replace with actual repository URL.
-
-*Note*: Please update the repository links with the correct URLs from your GitHub profile.
-
----
-
-## Other Notable Projects
-
-- **C++ Management Systems**: Built systems for car rentals, ECB banking, employee management, and student records to practice object-oriented programming.  
-- **Python Console Quiz App**: A simple, interactive quiz application developed to enhance my Python skills.  
-- **E-commerce Website**: A practice project using Vite-React and Node.js to explore web development.  
-
----
-
-## Languages and Tools
-
-### Programming Languages  
-<p>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
-
-### Mobile Development  
-<p>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" width="40" height="40"/>
-</p>
-
-### Web Development  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
-</p>
-
-### Backend & Databases  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="Supabase" width="40" height="40"/>
-</p>
-
-### Tools  
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
----
-
-## GitHub Stats
+<h1 align="center">Yordanos Samson</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yordanos-samson&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <strong>Full Stack Developer</strong> · Mobile · Web · AI
+  <br/>
+  <sub>Addis Ababa, Ethiopia · GMT+3</sub>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yordanos-samson&show_icons=true&locale=en" alt="GitHub Stats" />
+  <a href="https://yordanos.dev">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/yordanos-samson-bb6902307">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.upwork.com/freelancers/~016a164993da6f48d9">Upwork</a> &nbsp;·&nbsp;
+  <a href="mailto:developerjb72@gmail.com">Email</a>
 </p>
 
+---
+
+### About
+
+I ship production systems — mobile, web, and AI. From government security apps to EdTech SaaS, I build things that work in the real world.
+
+Currently **Software Engineer at GlobeDock Academy**, building **TalentDock** — a production EdTech SaaS on a Next.js + Laravel + headless open-source LMS stack, fully self-hosted on a Contabo VPS I own end-to-end.
+
+Previously **Flutter Developer Intern at INSA** (Ethiopia's Information Network Security Agency), where I built a credential verification app for field officers — Flutter + Dart Frog + PostgreSQL with offline-first sync.
+
+🟢 **Open to freelance, contract, and full-time work globally.**
 
 ---
 
-## Connect with Me
+### Live Status
 
-I’m excited to collaborate, share knowledge, or explore new opportunities. Feel free to reach out:
-
-- **Email**: [developerjb72@gmail.com](mailto:developerjb72@gmail.com)  
-- **GitHub**: [yordanos-samson](https://github.com/yordanos-samson)  
-- **LinkedIn**: [yordanos-samson](https://linkedin.com/in/yordanos-samson)  
+```text
+● Building     TalentDock EdTech SaaS at GlobeDock Academy
+● Open to      Flutter, Next.js, Laravel, AI freelance projects
+● Learning     Advanced AI agent systems
+```
 
 ---
+
+### Tech I Build With
+
+| Layer       | Stack                                                              |
+| ----------- | ------------------------------------------------------------------ |
+| **Mobile**  | Flutter · Dart · Dart Frog                                         |
+| **Web**     | Next.js · React · Laravel · PHP · TypeScript · Node.js · NestJS    |
+| **AI**      | OpenAI API · Google Gemini · Agent Workflows · OpenClaw            |
+| **Data**    | Supabase · PostgreSQL · Firebase                                   |
+| **DevOps**  | Linux · Nginx · Contabo VPS · SSL · Domain Config                  |
+| **Tools**   | Git · Metabase · GA4 · SCORM 1.2                                   |
+
+---
+
+### Selected Projects
+
+> Full case studies with problem → solution breakdowns at **[yordanos.dev](https://yordanos.dev)**
+
+#### 🟢 TalentDock — EdTech SaaS Platform
+Production EdTech SaaS at GlobeDock Academy. Headless open-source LMS + Laravel middleware + Next.js frontend. SCORM 1.2, GA4, Meta Pixel, Metabase analytics, fully self-hosted on Contabo VPS with Nginx + SSL.
+
+`Next.js` · `Laravel` · `SCORM 1.2` · `Metabase` · `Nginx`
+
+🔒 *Institution-owned · staging deployment*
+
+#### 🔒 Credential Verification App — INSA
+Flutter app for Ethiopia's Information Network Security Agency. QR-based credential verification with cryptographic signing, offline-first sync for field deployment.
+
+`Flutter` · `Dart Frog` · `PostgreSQL`
+
+🔒 *Under government NDA*
+
+#### AI Opportunity Identification System
+Multi-agent pipeline on OpenAI + OpenClaw. Agents handle intake, research, scoring, and report synthesis with structured JSON outputs at each handoff. 10× faster than the manual workflow.
+
+`OpenAI API` · `OpenClaw` · `Python`
+
+#### CareSync — Healthcare Platform
+Cross-platform healthcare system. Flutter for mobile, React for web, Supabase for realtime. Role-based access for patient/doctor/admin, in-app video consultations, real-time appointments with conflict resolution.
+
+`Flutter` · `React` · `Supabase` · `WebRTC`
+
+#### JB Music — Mood-Based Playlists
+Flutter app where users describe their mood in natural language and Google Gemini returns curated, contextual playlists — tuned to the moment, not the listening history.
+
+`Flutter` · `Gemini API` · `Dart`
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yordanos-Samson&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yordanos-Samson&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+### Get in Touch
+
+The fastest way is email — replies within 24 hours.
+
+- 📧 **[developerjb72@gmail.com](mailto:developerjb72@gmail.com)**
+- 🌐 **[yordanos.dev](https://yordanos.dev)** — portfolio + AI assistant
+- 💼 **[Upwork](https://www.upwork.com/freelancers/~016a164993da6f48d9)** — verified freelance profile
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/yordanos-samson-bb6902307)** — career history
+
+---
+
+<p align="center">
+  <sub>Crafted in Addis Ababa · Built end-to-end · Shipped, not shelved.</sub>
+</p>
